@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Ayush Kumar!  <br><br>🚀 **Full-Stack Developer | Next.js | React.js | Node.js | Firebase**  <br>
 
 
